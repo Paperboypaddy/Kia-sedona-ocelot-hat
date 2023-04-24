@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "LIN_BUS2")(type "KiCad")(uri "C:/Users/Padraic/Downloads/LIB_MC33660BEFR2/MC33660BEFR2/KiCad")(options "")(descr ""))
+  (lib (name "RGB_LED")(type "KiCad")(uri "C:/Users/Padraic/Downloads/LIB_ASMB-LTC2-0A335/ASMB-LTC2-0A335/KiCad")(options "")(descr ""))
+)
